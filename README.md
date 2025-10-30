@@ -57,5 +57,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pyrowoon)
 [![Email](https://img.shields.io/badge/Email-affiliationmurad%40yandex.ru-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:affiliationmurad@yandex.ru)
 [![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/onemedjay)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murad715/)
+[![HeadHunter](https://img.shields.io/badge/HeadHunter-FF0000?style=for-the-badge&logo=hh&logoColor=white)](https://kazan.hh.ru/resume/1881ef2fff0f2468a80039ed1f463443675630)
 
 ###  Открыт для стажировок и интересных проектов в области Data Engineering и Machine Learning!
