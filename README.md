@@ -17,6 +17,18 @@
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 ![LATEX](https://img.shields.io/badge/-LATEX-black?logo=latex&style=social)&nbsp;&nbsp;
+![Pandas](https://img.shields.io/badge/-Pandas-black?logo=pandas&style=social)&nbsp;&nbsp;
+![NumPy](https://img.shields.io/badge/-NumPy-black?logo=numpy&style=social)&nbsp;&nbsp;
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-black?logo=scikitlearn&style=social)&nbsp;&nbsp;
+![FastAPI](https://img.shields.io/badge/-FastAPI-black?logo=fastapi&style=social)&nbsp;&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?logo=postgresql&style=social)&nbsp;&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-black?logo=docker&style=social)&nbsp;&nbsp;
+![Airflow](https://img.shields.io/badge/-Apache%20Airflow-black?logo=apacheairflow&style=social)&nbsp;&nbsp;
+![REST API](https://img.shields.io/badge/-REST%20API-black?logo=fastapi&style=social)&nbsp;&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-black?logo=linux&style=social)&nbsp;&nbsp;
+![Bash](https://img.shields.io/badge/-Bash-black?logo=gnubash&style=social)&nbsp;&nbsp;
+![ETL](https://img.shields.io/badge/-ETL-black?logo=databricks&style=social)&nbsp;&nbsp;
+![DWH](https://img.shields.io/badge/-DWH-black?logo=googlebigquery&style=social)&nbsp;&nbsp;
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=affiliation24&layout=donut)](https://github.com/affiliation24/github-readme-stats)
