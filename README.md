@@ -36,8 +36,11 @@
 
 ### 📫 Контакты:
 
-    •	Telegram￼
+    •   [Telegram](https://t.me/pyrowoon)
     •	Email: affiliationmurad@yandex.ru
+    •   [ВК] (https://vk.com/onemedjay)
+    •   [Spotify](https://open.spotify.com/user/gg24zk9ilglrfe369olw46i3x?si=3407fe3221c54751)
+    •   [Пульс](https://www.tbank.ru/invest/social/profile/affiliation?author=profile)
 
 ⸻
 
